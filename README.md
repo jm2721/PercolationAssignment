@@ -1,6 +1,6 @@
 My solution to https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
 
-Score: 94/100 from Autograder
+Score: 94/100 from Autograder.
 
 Improvements:
 - My Percolation implementation uses too much space. Haven't optimized for that.
